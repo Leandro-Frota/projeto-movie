@@ -1,6 +1,6 @@
 # Escola de habildiades digitais Digital College - Landign Page Movie
 
-Este é uma solução para o desafio prposto  [CodeinStages](https://codeinstages.com/).
+Projeto landing-page utilizando a plataforma  [CodeinStages](https://codeinstages.com/).
 
 ## Visão Geral
 
