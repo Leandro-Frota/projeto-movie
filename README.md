@@ -16,8 +16,8 @@ Projeto landing-page utilizando a plataforma  [CodeinStages](https://codeinstage
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: (https://github.com/Leandro-Frota/projeto-movie)
+- Live Site URL: (https://leandro-frota.github.io/projeto-movie/)
 
 ### Temas
 - HTML5
@@ -25,3 +25,6 @@ Projeto landing-page utilizando a plataforma  [CodeinStages](https://codeinstage
 - Flexbox
 - Responsividade
 - Media Query
+
+### Autot
+ - Leandro Frota
